@@ -2,7 +2,7 @@ Yara rule:
 {
   meta:
     description = "PDB path found in Yanluowang ransomware samples"
-author = "EchoCTI Team"
+author = "Ugur Ates"
 created= "08/12/2022 12:00:00"
 
   strings:
